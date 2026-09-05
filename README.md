@@ -27,14 +27,6 @@ I'm Ehsan Rezapour a Full Stack Web Developer and Graphic Designer. I Spend most
 - :email: ehsan199819@gmail.com
 
 
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ehsawnell.ehsawnell)
-
-<details>
-<summary>
-  More stuff about me
-</summary>
 
 <br >
 
