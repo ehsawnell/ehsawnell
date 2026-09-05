@@ -8,12 +8,11 @@ I'm Ehsan Rezapour a Full Stack Web Developer and Graphic Designer. I Spend most
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Premiuminn
+- 🔭 I’m currently working at @DoveçGroup
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Logo Designing ideas.
-- 📫 How to reach me: ehsan199819@gmail.com.
 - 😄 Pronouns: CommanderGHOST💀
-- ⚡ Fun fact: I play games and Playing Tennis🎾 very often.
+
 
 #### Top Technologies
 
@@ -25,7 +24,6 @@ I'm Ehsan Rezapour a Full Stack Web Developer and Graphic Designer. I Spend most
 
 
 #### Bizness
-- :paperclip: [My Resume/CV](###)
 - :email: ehsan199819@gmail.com
 
 
