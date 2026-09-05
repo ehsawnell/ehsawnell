@@ -46,10 +46,6 @@ These days I am working on flutter & dart and I hope these programs can form a m
 
 
 
-#### Github Stats
-
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ehsawnell&count_private=true&theme=tokyonight&hide=contribs,prs)
-
 </details>
 
 
